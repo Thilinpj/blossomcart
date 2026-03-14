@@ -1,0 +1,6 @@
+@BlossomCart.API_HostAddress = http://localhost:5285
+
+GET {{BlossomCart.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
